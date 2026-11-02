@@ -2,11 +2,11 @@
 -- CREDIT RISK ANALYTICS PROJECT
 -- 20 PostgreSQL Queries | SQL + Power BI Portfolio Project
 -- ============================================================
--- Assumed tables:
+-- Tables:
 --   credit_risk.borrowers
 --   credit_risk.loan_applications
 --
--- Assumed columns:
+-- Columns:
 -- borrowers:
 --   borrower_id, region, employment_type
 --
@@ -14,15 +14,6 @@
 --   loan_id, borrower_id, application_date, loan_amount,
 --   outstanding_balance, credit_score, debt_to_income_ratio,
 --   interest_rate, loan_status, days_past_due, default_flag
---
--- IMPORTANT:
--- 1. Check your actual column names before running the queries.
--- 2. These queries use PostgreSQL syntax (FILTER, DATE_TRUNC, etc.).
--- 3. default_flag must be 1 for default and 0 for non-default.
--- 4. debt_to_income_ratio is assumed to be a decimal (0.40 = 40%).
--- 5. Default rates are observed historical rates, not modelled PDs.
--- ============================================================
-
 
 -- ============================================================
 -- SECTION 1: PORTFOLIO OVERVIEW AND DATA QUALITY
