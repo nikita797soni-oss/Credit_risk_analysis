@@ -1,0 +1,1225 @@
+borrower_id_raw,borrower_name_raw,region_raw,annual_income_raw,employment_type_raw,home_ownership_raw,city_raw
+B00001,Borrower 1, SOUTH ,,SALARIED,Own,jaipur
+B00002,Borrower 2,East,364412,Salaried,Own,Hyderabad
+B00003,Borrower 3,North,620057,Salaried,Mortgage,Lucknow
+B00004,Borrower 4,West,795689,Contract,Own,Pune
+B00005,Borrower 5,Central,286960,Self-Employed,Own,Kolkata
+B00006,Borrower 6,West,2.9 LPA,Business Owner,Mortgage,Mumbai
+B00007,Borrower 7,East,358873,Salaried,Mortgage,Jaipur
+B00008,Borrower 8,West,"₹688,543",Salaried,Family,Mumbai
+B00009,Borrower 9,West,575299,Salaried,Family,Indore
+B00010,Borrower 10,West,900292,Business Owner,Family,Pune
+B00011,Borrower 11,Central,7.1 LPA,Contract,Family,Pune
+B00012,Borrower 12,Central,1550331,Salaried,Mortgage,Lucknow
+B00013,Borrower 13,North,549483,Contract,Rent,Bengaluru
+B00014,Borrower 14,East,1956428,Business Owner,Rent,Chennai
+B00015,Borrower 15,North,"₹740,164",Salaried,Own,Hyderabad
+B00016,Borrower 16,South,3.2 LPA,Salaried,Rent,Pune
+B00017,Borrower 17,Central,733794,Salaried,Own,Bengaluru
+B00018,Borrower 18,Central,706180,Salaried,Mortgage,Mumbai
+B00019,Borrower 19,North,1788830,Self-Employed,Rent,Delhi
+B00020,Borrower 20,North,1201869,Salaried,Own,Mumbai
+B00021,Borrower 21,West,7.9 LPA,Salaried,Rent,Lucknow
+B00022,Borrower 22,East,"₹367,688",Self-Employed,Own,Kolkata
+B00023,Borrower 23,West,419234,Salaried,Rent,Chennai
+B00024,Borrower 24,North,2073644,Salaried,Own,Delhi
+B00025,Borrower 25,East,552195,Business Owner,Own,Lucknow
+B00026,Borrower 26,Central,11.0 LPA,Business Owner,Rent,Chennai
+B00027,Borrower 27,South,1163048,Salaried,Rent,Kolkata
+B00028,Borrower 28,East,2240416,Salaried,Rent,Lucknow
+B00029,Borrower 29,West,"₹984,956",Business Owner,Rent,Delhi
+B00030,Borrower 30,West,1336423,Salaried,Own,Jaipur
+B00031,Borrower 31,North,12.4 LPA,Self-Employed,Own,Chennai
+B00032,Borrower 32,West,1725003,Self-Employed,Rent,Jaipur
+B00033,Borrower 33,South,825546,Business Owner,Own,Hyderabad
+B00034,Borrower 34,West,432148,Self-Employed,Mortgage,Lucknow
+B00035,Borrower 35,East,659410,Salaried,Rent,Lucknow
+B00036,Borrower 36,West,"₹967,433",Self-Employed,Mortgage,Chennai
+B00037,Borrower 37,South,781869,Salaried,Mortgage,Chennai
+B00038,Borrower 38,North,,Salaried,Family,Pune
+B00039,Borrower 39,South,1046088,Business Owner,Family,Chennai
+B00040,Borrower 40,South,338915,Salaried,Rent,Hyderabad
+B00041,Borrower 41,South,8.8 LPA,Business Owner,Rent,Chennai
+B00042,Borrower 42,West,724797,Business Owner,Rent,Mumbai
+B00043,Borrower 43,South,"₹624,426",Salaried,Family,Chennai
+B00044,Borrower 44,West,824715,Self-Employed,Family,Hyderabad
+B00045,Borrower 45,South,2500351,Salaried,Mortgage,Pune
+B00046,Borrower 46,North,7.4 LPA,Salaried,Rent,Hyderabad
+B00047,Borrower 47,Central,911227,Business Owner,Mortgage,Delhi
+B00048,Borrower 48,East,478119,Salaried,Family,Chennai
+B00049,Borrower 49,Central,293455,Contract,Rent,Lucknow
+B00050,Borrower 50,South,"₹669,466",Salaried,Rent,Indore
+B00051,Borrower 51,South,11.0 LPA,Contract,Rent,Chennai
+B00052,Borrower 52,Central,1531042,Salaried,Family,Delhi
+B00053,Borrower 53,South,931332,Salaried,Family,Indore
+B00054,Borrower 54,North,526671,Salaried,N/A,Kolkata
+B00055,Borrower 55,North,396676,Contract,Family,Chennai
+B00056,Borrower 56,South,4.5 LPA,Self-Employed,Rent,Indore
+B00057,Borrower 57,East,"₹1,004,939",Salaried,Mortgage,Pune
+B00058,Borrower 58,North,530272,Self-Employed,Family,Chennai
+B00059,Borrower 59,South,272730,Salaried,Family,Delhi
+B00060,Borrower 60,West,1588074,Salaried,Own,Jaipur
+B00061,Borrower 61,South,12.9 LPA,Self-Employed,Rent,Bengaluru
+B00062,Borrower 62,South,353409,Business Owner,Family,Lucknow
+B00063,Borrower 63,West,760761,Self-Employed,Family,Kolkata
+B00064,Borrower 64,South,"₹1,359,478",Salaried,Own,Mumbai
+B00065,Borrower 65,East,789272,Salaried,Rent,Hyderabad
+B00066,Borrower 66,Central,3.1 LPA,Business Owner,Mortgage,Jaipur
+B00067,Borrower 67,West,1387612,Salaried,Own,Jaipur
+B00068,Borrower 68,Central,571666,Self-Employed,Family,Indore
+B00069,Borrower 69,South,435866,Business Owner,Own,Pune
+B00070,Borrower 70,East,418289,Salaried,Family,Jaipur
+B00071,Borrower 71,Central,"₹1,328,824",Self-Employed,Rent,Indore
+B00072,Borrower 72,East,330574,BUSINESS OWNER,Own,Indore
+B00073,Borrower 73,South,532135,Business Owner,Own,Lucknow
+B00074,Borrower 74,North,844431,Salaried,Own,Pune
+B00075,Borrower 75,East,,Salaried,Mortgage,Chennai
+B00076,Borrower 76,West,7.7 LPA,Salaried,Mortgage,Lucknow
+B00077,Borrower 77,Central,797814,Salaried,Rent,Pune
+B00078,Borrower 78,East,"₹725,081",Contract,Family,Bengaluru
+B00079,Borrower 79,North,683189,Self-Employed,Rent,Chennai
+B00080,Borrower 80,North,622944,Salaried,Rent,Pune
+B00081,Borrower 81,South,4.8 LPA,Self-Employed,Rent,Bengaluru
+B00082,Borrower 82,West,915807,Business Owner,Own,Bengaluru
+B00083,Borrower 83,Central,931569,Salaried,Own,Kolkata
+B00084,Borrower 84,East,764580,Contract,Family,Indore
+B00085,Borrower 85,East,"₹225,104",Business Owner,Own,Jaipur
+B00086,Borrower 86,Central,5.6 LPA,Self-Employed,Family,Kolkata
+B00087,Borrower 87,South,939331,Salaried,Own,Mumbai
+B00088,Borrower 88,West,229957,Contract,Family,Bengaluru
+B00089,Borrower 89,South,1056747,Self-Employed,Rent,Indore
+B00090,Borrower 90,Central,229834,Business Owner,Rent,bengaluru
+B00091,Borrower 91,South,9.7 LPA,Business Owner,Own,Delhi
+B00092,Borrower 92,West,"₹868,618",Salaried,Mortgage,Hyderabad
+B00093,Borrower 93,West,540338,Salaried,Own,Bengaluru
+B00094,Borrower 94,Central,452028,Salaried,Family,Chennai
+B00095,Borrower 95,South,1021783,Salaried,Family,Jaipur
+B00096,Borrower 96,North,6.2 LPA,Business Owner,Family,Indore
+B00097,Borrower 97,East,1499337,Self-Employed,Own,Bengaluru
+B00098,Borrower 98,Central,735753,Salaried,Mortgage,Chennai
+B00099,Borrower 99,West,"₹851,197",Salaried,Own,Delhi
+B00100,Borrower 100,North,1442196,Contract,Rent,Lucknow
+B00101,Borrower 101,East,2.4 LPA,Business Owner,Mortgage,Kolkata
+B00102,Borrower 102, SOUTH ,1394274,Salaried,Family,Pune
+B00103,Borrower 103,East,512815,Business Owner,Family,Bengaluru
+B00104,Borrower 104,East,1001074,Self-Employed,Own,Bengaluru
+B00105,Borrower 105,North,551219,Contract,Own,Indore
+B00106,Borrower 106,Central,"₹1,158,124",Salaried,Mortgage,Mumbai
+B00107,Borrower 107,West,466754,Salaried,Mortgage,Chennai
+B00108,Borrower 108,West,874631,Business Owner,Rent,Bengaluru
+B00109,Borrower 109,Central,417462,Business Owner,Mortgage,Indore
+B00110,Borrower 110,East,335684,Salaried,Family,Pune
+B00111,Borrower 111,North,6.5 LPA,Salaried,Own,Hyderabad
+B00112,Borrower 112,West,,Salaried,Rent,Chennai
+B00113,Borrower 113,East,"₹1,014,993",Salaried,Mortgage,Pune
+B00114,Borrower 114,South,396408,Self-Employed,Family,Kolkata
+B00115,Borrower 115,West,964464,Salaried,Own,Bengaluru
+B00116,Borrower 116,East,2.1 LPA,Salaried,Rent,Mumbai
+B00117,Borrower 117,North,251774,Self-Employed,Own,Delhi
+B00118,Borrower 118,West,211835,Salaried,Rent,Delhi
+B00119,Borrower 119,Central,159601,Self-Employed,Rent,Chennai
+B00120,Borrower 120,West,"₹537,631",Salaried,Mortgage,Lucknow
+B00121,Borrower 121,North,10.3 LPA,Salaried,Mortgage,Lucknow
+B00122,Borrower 122,Central,470164,Business Owner,Family,Indore
+B00123,Borrower 123,Central,245691,Salaried,Own,Pune
+B00124,Borrower 124,South,1670872,Self-Employed,Family,Pune
+B00125,Borrower 125,West,441008,Contract,Rent,Pune
+B00126,Borrower 126,East,14.3 LPA,Salaried,Rent,Pune
+B00127,Borrower 127,West,"₹850,340",Self-Employed,Rent,Hyderabad
+B00128,Borrower 128,Central,509706,Self-Employed,Mortgage,Jaipur
+B00129,Borrower 129,West,507050,Salaried,Mortgage,Bengaluru
+B00130,Borrower 130,South,1341052,Salaried,Mortgage,Delhi
+B00131,Borrower 131,Central,6.0 LPA,Business Owner,Own,Lucknow
+B00132,Borrower 132,North,339836,Business Owner,Mortgage,Pune
+B00133,Borrower 133,North,571160,Salaried,Own,Lucknow
+B00134,Borrower 134,North,"₹2,274,751",Business Owner,Family,Kolkata
+B00135,Borrower 135,West,1263578,Salaried,Family,Jaipur
+B00136,Borrower 136,North,6.5 LPA,Self-Employed,Rent,Pune
+B00137,Borrower 137,Central,1160442,Salaried,Mortgage,Indore
+B00138,Borrower 138,East,669085,Self-Employed,Own,Lucknow
+B00139,Borrower 139,North,1030845,Contract,Own,Indore
+B00140,Borrower 140,Central,896409,Salaried,Mortgage,Pune
+B00141,Borrower 141,South,"₹363,534",Contract,Own,Bengaluru
+B00142,Borrower 142,North,1543210,Salaried,Mortgage,Hyderabad
+B00143,Borrower 143,North,257927,SALARIED,Mortgage,Kolkata
+B00144,Borrower 144,North,396863,Business Owner,Mortgage,Pune
+B00145,Borrower 145,East,398518,Salaried,Family,Chennai
+B00146,Borrower 146,North,5.1 LPA,Salaried,Family,Bengaluru
+B00147,Borrower 147,South,722113,Salaried,Mortgage,Pune
+B00148,Borrower 148,South,"₹1,283,551",Self-Employed,Own,Delhi
+B00149,Borrower 149,North,,Salaried,Family,Delhi
+B00150,Borrower 150,West,543620,Contract,Rent,Lucknow
+B00151,Borrower 151,South,8.0 LPA,Salaried,Own,Kolkata
+B00152,Borrower 152,East,1502376,Salaried,Mortgage,Bengaluru
+B00153,Borrower 153,South,484551,Salaried,Rent,Pune
+B00154,Borrower 154,West,677343,Contract,Own,Kolkata
+B00155,Borrower 155,South,"₹360,222",Self-Employed,Family,Chennai
+B00156,Borrower 156,South,5.1 LPA,Salaried,Family,Jaipur
+B00157,Borrower 157,North,1095783,Salaried,Family,Bengaluru
+B00158,Borrower 158,North,543961,Salaried,Family,Lucknow
+B00159,Borrower 159,East,1014075,Self-Employed,Family,Mumbai
+B00160,Borrower 160,South,1802798,Salaried,Mortgage,Bengaluru
+B00161,Borrower 161,North,6.7 LPA,Salaried,Own,Kolkata
+B00162,Borrower 162,West,"₹363,325",Salaried,Own,Hyderabad
+B00163,Borrower 163,East,579563,Business Owner,Rent,Indore
+B00164,Borrower 164,North,480560,Business Owner,Mortgage,Kolkata
+B00165,Borrower 165,South,539585,Self-Employed,Rent,Pune
+B00166,Borrower 166,West,15.4 LPA,Salaried,Family,Lucknow
+B00167,Borrower 167,West,876407,Salaried,Family,Lucknow
+B00168,Borrower 168,Central,1601121,Salaried,Family,Lucknow
+B00169,Borrower 169,East,"₹843,383",Salaried,Rent,Pune
+B00170,Borrower 170,South,544577,Self-Employed,Family,Chennai
+B00171,Borrower 171,North,7.5 LPA,Self-Employed,Family,Lucknow
+B00172,Borrower 172,West,322472,Salaried,Family,Chennai
+B00173,Borrower 173,South,1621212,Salaried,Rent,Hyderabad
+B00174,Borrower 174,South,305739,Business Owner,Own,Pune
+B00175,Borrower 175,North,720478,Salaried,Own,Delhi
+B00176,Borrower 176,South,"₹1,586,948",Salaried,Rent,Mumbai
+B00177,Borrower 177,North,390628,Salaried,Family,Hyderabad
+B00178,Borrower 178,West,1059837,Business Owner,Family,Jaipur
+B00179,Borrower 179,South,761694,Salaried,Rent,lucknow
+B00180,Borrower 180,Central,374935,Salaried,Mortgage,Delhi
+B00181,Borrower 181,West,4.5 LPA,Business Owner,Rent,Indore
+B00182,Borrower 182,Central,441364,Salaried,Family,Pune
+B00183,Borrower 183,East,"₹335,909",Business Owner,Own,Lucknow
+B00184,Borrower 184,West,2647116,Self-Employed,Rent,Bengaluru
+B00185,Borrower 185,Central,461823,Salaried,Own,Bengaluru
+B00186,Borrower 186,West,,Business Owner,Rent,Bengaluru
+B00187,Borrower 187,Central,1848817,Self-Employed,Rent,Indore
+B00188,Borrower 188,North,473255,Contract,Own,Kolkata
+B00189,Borrower 189,North,539107,Salaried,Mortgage,Pune
+B00190,Borrower 190,West,"₹468,881",Self-Employed,Rent,Pune
+B00191,Borrower 191,East,12.1 LPA,Salaried,Family,Chennai
+B00192,Borrower 192,Central,1061020,Self-Employed,Rent,Lucknow
+B00193,Borrower 193,East,915173,Salaried,Mortgage,Mumbai
+B00194,Borrower 194,South,466745,Salaried,Own,Pune
+B00195,Borrower 195,South,1408291,Business Owner,Own,Delhi
+B00196,Borrower 196,North,6.5 LPA,Business Owner,Own,Lucknow
+B00197,Borrower 197,East,"₹478,140",Salaried,Own,Pune
+B00198,Borrower 198,Central,1529060,Self-Employed,Own,Lucknow
+B00199,Borrower 199,South,390623,Salaried,Family,Chennai
+B00200,Borrower 200,North,941324,Salaried,Own,Mumbai
+B00201,Borrower 201,West,12.4 LPA,Self-Employed,Family,Jaipur
+B00202,Borrower 202,East,781854,Salaried,Own,Kolkata
+B00203,Borrower 203, NORTH ,593592,Salaried,Rent,Mumbai
+B00204,Borrower 204,South,"₹616,863",Self-Employed,Own,Hyderabad
+B00205,Borrower 205,North,1065208,Business Owner,Family,Indore
+B00206,Borrower 206,South,9.2 LPA,Self-Employed,Rent,Lucknow
+B00207,Borrower 207,North,590761,Self-Employed,Family,Hyderabad
+B00208,Borrower 208,South,606844,Salaried,Rent,Mumbai
+B00209,Borrower 209,East,983903,Salaried,Own,Mumbai
+B00210,Borrower 210,East,433105,Salaried,Mortgage,Mumbai
+B00211,Borrower 211,North,"₹486,987",Self-Employed,Rent,Mumbai
+B00212,Borrower 212,Central,679219,Salaried,Mortgage,Chennai
+B00213,Borrower 213,North,691871,Business Owner,Mortgage,Hyderabad
+B00214,Borrower 214,East,1538069,SALARIED,Family,Kolkata
+B00215,Borrower 215,West,552974,Salaried,Own,Pune
+B00216,Borrower 216,West,4.9 LPA,Business Owner,Rent,Bengaluru
+B00217,Borrower 217,South,665926,Salaried,Rent,Indore
+B00218,Borrower 218,Central,"₹610,335",Salaried,Rent,Indore
+B00219,Borrower 219,North,1418267,Self-Employed,Rent,Chennai
+B00220,Borrower 220,Central,720922,Salaried,Own,Delhi
+B00221,Borrower 221,West,3.0 LPA,Salaried,N/A,Delhi
+B00222,Borrower 222,West,465470,Contract,Rent,Bengaluru
+B00223,Borrower 223,East,,Salaried,Rent,Chennai
+B00224,Borrower 224,North,576195,Contract,Rent,Indore
+B00225,Borrower 225,West,"₹1,027,167",Salaried,Mortgage,Jaipur
+B00226,Borrower 226,North,9.4 LPA,Salaried,Family,Delhi
+B00227,Borrower 227,North,252497,Business Owner,Rent,Jaipur
+B00228,Borrower 228,North,597493,Self-Employed,Rent,Kolkata
+B00229,Borrower 229,West,1271810,Salaried,Own,Jaipur
+B00230,Borrower 230,South,1778678,Business Owner,Mortgage,Lucknow
+B00231,Borrower 231,West,6.1 LPA,Salaried,Rent,Jaipur
+B00232,Borrower 232,Central,"₹814,079",Business Owner,Own,Indore
+B00233,Borrower 233,Central,513614,Salaried,Family,Pune
+B00234,Borrower 234,West,1089174,Salaried,Family,Pune
+B00235,Borrower 235,West,1262151,Salaried,Rent,Mumbai
+B00236,Borrower 236,West,3.3 LPA,Salaried,Own,Pune
+B00237,Borrower 237,North,582458,Salaried,Rent,Hyderabad
+B00238,Borrower 238,Central,638941,Contract,Own,Pune
+B00239,Borrower 239,East,"₹712,722",Salaried,Rent,Indore
+B00240,Borrower 240,North,808920,Salaried,Rent,Delhi
+B00241,Borrower 241,Central,11.4 LPA,Salaried,Family,Mumbai
+B00242,Borrower 242,South,468315,Business Owner,Rent,Mumbai
+B00243,Borrower 243,West,729779,Salaried,Own,Hyderabad
+B00244,Borrower 244,South,3094894,Salaried,Family,Jaipur
+B00245,Borrower 245,North,821456,Salaried,Own,Indore
+B00246,Borrower 246,Central,"₹981,941",Salaried,Rent,Chennai
+B00247,Borrower 247,North,569174,Salaried,Mortgage,Hyderabad
+B00248,Borrower 248,South,609902,Contract,Own,Delhi
+B00249,Borrower 249,South,1072535,Contract,Rent,Kolkata
+B00250,Borrower 250,West,342161,Business Owner,Mortgage,Chennai
+B00251,Borrower 251,South,9.2 LPA,Business Owner,Own,Pune
+B00252,Borrower 252,South,967695,Salaried,Mortgage,Pune
+B00253,Borrower 253,South,"₹436,367",Business Owner,Mortgage,Jaipur
+B00254,Borrower 254,North,299600,Salaried,Family,Kolkata
+B00255,Borrower 255,North,744862,Self-Employed,Rent,Kolkata
+B00256,Borrower 256,West,15.1 LPA,Contract,Mortgage,Lucknow
+B00257,Borrower 257,East,492174,Salaried,Rent,Mumbai
+B00258,Borrower 258,South,663215,Salaried,Family,Bengaluru
+B00259,Borrower 259,North,455731,Salaried,Family,Lucknow
+B00260,Borrower 260,East,,Self-Employed,Own,Kolkata
+B00261,Borrower 261,South,9.0 LPA,Salaried,Rent,Lucknow
+B00262,Borrower 262,West,551578,Salaried,Own,Bengaluru
+B00263,Borrower 263,South,1092258,Self-Employed,Own,Lucknow
+B00264,Borrower 264,North,506773,Salaried,Rent,Delhi
+B00265,Borrower 265,East,2159149,Salaried,Own,Chennai
+B00266,Borrower 266,West,10.7 LPA,Self-Employed,Own,Hyderabad
+B00267,Borrower 267,Central,"₹808,776",Self-Employed,Rent,Hyderabad
+B00268,Borrower 268,Central,825599,Self-Employed,Family,lucknow
+B00269,Borrower 269,Central,270323,Business Owner,Mortgage,Mumbai
+B00270,Borrower 270,Central,970159,Salaried,Rent,Hyderabad
+B00271,Borrower 271,West,9.0 LPA,Business Owner,Rent,Indore
+B00272,Borrower 272,East,1141234,Self-Employed,Rent,Chennai
+B00273,Borrower 273,South,454657,Salaried,Mortgage,Chennai
+B00274,Borrower 274,Central,"₹403,394",Self-Employed,Rent,Hyderabad
+B00275,Borrower 275,West,1058174,Salaried,Own,Chennai
+B00276,Borrower 276,East,9.6 LPA,Self-Employed,Rent,Delhi
+B00277,Borrower 277,East,884935,Business Owner,Mortgage,Chennai
+B00278,Borrower 278,North,889944,Salaried,Family,Chennai
+B00279,Borrower 279,West,995657,Salaried,Family,Jaipur
+B00280,Borrower 280,North,2333096,Self-Employed,Own,Lucknow
+B00281,Borrower 281,South,"₹644,737",Salaried,Own,Hyderabad
+B00282,Borrower 282,South,582376,Salaried,Mortgage,Lucknow
+B00283,Borrower 283,South,499276,Business Owner,Mortgage,Pune
+B00284,Borrower 284,Central,597291,Self-Employed,Rent,Delhi
+B00285,Borrower 285,Central,1230859,SALARIED,Family,Chennai
+B00286,Borrower 286,West,8.8 LPA,Self-Employed,Own,Chennai
+B00287,Borrower 287,North,709952,Business Owner,Mortgage,Pune
+B00288,Borrower 288,East,"₹456,865",Contract,Own,Kolkata
+B00289,Borrower 289,Central,597774,Salaried,Rent,Delhi
+B00290,Borrower 290,West,1721515,Self-Employed,Rent,Delhi
+B00291,Borrower 291,East,19.0 LPA,Salaried,Family,Indore
+B00292,Borrower 292,North,120000,Salaried,Rent,Kolkata
+B00293,Borrower 293,South,388964,Contract,Mortgage,Bengaluru
+B00294,Borrower 294,South,524360,Salaried,Rent,Pune
+B00295,Borrower 295,North,"₹674,186",Salaried,Mortgage,Indore
+B00296,Borrower 296,Central,9.5 LPA,Salaried,Rent,Jaipur
+B00297,Borrower 297,North,,Business Owner,Own,Hyderabad
+B00298,Borrower 298,North,643879,Contract,Rent,Chennai
+B00299,Borrower 299,Central,747054,Salaried,Own,Jaipur
+B00300,Borrower 300,North,802594,Salaried,Mortgage,Delhi
+B00301,Borrower 301,East,4.2 LPA,Salaried,Rent,Jaipur
+B00302,Borrower 302,East,"₹387,455",Self-Employed,Own,Bengaluru
+B00303,Borrower 303,South,616007,Salaried,Own,Pune
+B00304,Borrower 304, EAST ,248931,Salaried,Rent,Lucknow
+B00305,Borrower 305,North,963323,Self-Employed,Own,Bengaluru
+B00306,Borrower 306,East,28.5 LPA,Salaried,Mortgage,Lucknow
+B00307,Borrower 307,East,1048021,Business Owner,Own,Lucknow
+B00308,Borrower 308,West,796539,Salaried,Own,Indore
+B00309,Borrower 309,Central,"₹278,287",Salaried,Mortgage,Jaipur
+B00310,Borrower 310,North,858212,Salaried,Rent,Jaipur
+B00311,Borrower 311,South,5.1 LPA,Salaried,Own,Kolkata
+B00312,Borrower 312,North,621854,Salaried,Own,Lucknow
+B00313,Borrower 313,North,300088,Self-Employed,Mortgage,Kolkata
+B00314,Borrower 314,East,793704,Salaried,Family,Kolkata
+B00315,Borrower 315,West,533326,Salaried,Rent,Kolkata
+B00316,Borrower 316,West,"₹490,351",Salaried,Rent,Bengaluru
+B00317,Borrower 317,North,1472499,Salaried,Own,Mumbai
+B00318,Borrower 318,West,803391,Salaried,Rent,Hyderabad
+B00319,Borrower 319,South,1930488,Salaried,Mortgage,Mumbai
+B00320,Borrower 320,West,550093,Business Owner,Own,Kolkata
+B00321,Borrower 321,North,8.9 LPA,Salaried,Own,Kolkata
+B00322,Borrower 322,West,1271815,Salaried,Rent,Lucknow
+B00323,Borrower 323,Central,"₹467,418",Salaried,Family,Hyderabad
+B00324,Borrower 324,South,976639,Salaried,Mortgage,Chennai
+B00325,Borrower 325,South,1543267,Self-Employed,Rent,Jaipur
+B00326,Borrower 326,East,9.3 LPA,Contract,Family,Mumbai
+B00327,Borrower 327,North,685704,Salaried,Rent,Hyderabad
+B00328,Borrower 328,West,321072,Self-Employed,Rent,Jaipur
+B00329,Borrower 329,West,1153005,Self-Employed,Rent,Delhi
+B00330,Borrower 330,North,"₹170,207",Business Owner,Mortgage,Bengaluru
+B00331,Borrower 331,East,7.1 LPA,Self-Employed,Own,Kolkata
+B00332,Borrower 332,West,289933,Business Owner,Rent,Indore
+B00333,Borrower 333,East,505397,Salaried,Rent,Pune
+B00334,Borrower 334,South,,Contract,Own,Delhi
+B00335,Borrower 335,West,349165,Salaried,Rent,Lucknow
+B00336,Borrower 336,North,6.5 LPA,Self-Employed,Own,Bengaluru
+B00337,Borrower 337,Central,"₹294,992",Salaried,Rent,Lucknow
+B00338,Borrower 338,North,507531,Salaried,Family,Pune
+B00339,Borrower 339,North,650753,Business Owner,Family,Lucknow
+B00340,Borrower 340,South,466850,Business Owner,Mortgage,Mumbai
+B00341,Borrower 341,East,9.1 LPA,Self-Employed,Mortgage,Indore
+B00342,Borrower 342,North,1250840,Salaried,Own,Chennai
+B00343,Borrower 343,North,832546,Salaried,Mortgage,Hyderabad
+B00344,Borrower 344,Central,"₹952,530",Salaried,Rent,Pune
+B00345,Borrower 345,Central,588408,Salaried,Family,Hyderabad
+B00346,Borrower 346,West,9.5 LPA,Salaried,Rent,Mumbai
+B00347,Borrower 347,North,526133,Contract,Mortgage,Pune
+B00348,Borrower 348,Central,360475,Self-Employed,Own,Mumbai
+B00349,Borrower 349,North,1344782,Business Owner,Rent,Mumbai
+B00350,Borrower 350,North,569608,Business Owner,Own,Kolkata
+B00351,Borrower 351,South,"₹634,303",Salaried,Rent,Chennai
+B00352,Borrower 352,East,226259,Salaried,Family,Jaipur
+B00353,Borrower 353,East,1023873,Salaried,Rent,Hyderabad
+B00354,Borrower 354,West,490911,Contract,Family,Mumbai
+B00355,Borrower 355,South,1027103,Salaried,Rent,Chennai
+B00356,Borrower 356,West,9.2 LPA,SALARIED,Own,Indore
+B00357,Borrower 357,East,405935,Salaried,Mortgage,mumbai
+B00358,Borrower 358,East,"₹983,025",Salaried,Rent,Jaipur
+B00359,Borrower 359,Central,530581,Salaried,Own,Mumbai
+B00360,Borrower 360,Central,595030,Business Owner,Rent,Jaipur
+B00361,Borrower 361,West,12.2 LPA,Business Owner,Rent,Indore
+B00362,Borrower 362,Central,487233,Salaried,Rent,Mumbai
+B00363,Borrower 363,West,674038,Salaried,Own,Mumbai
+B00364,Borrower 364,East,605695,Salaried,Mortgage,Pune
+B00365,Borrower 365,South,"₹810,241",Salaried,Rent,Lucknow
+B00366,Borrower 366,West,3.3 LPA,Business Owner,Mortgage,Chennai
+B00367,Borrower 367,South,787659,Salaried,Mortgage,Lucknow
+B00368,Borrower 368,South,447814,Business Owner,Rent,Indore
+B00369,Borrower 369,North,570545,Business Owner,Mortgage,Hyderabad
+B00370,Borrower 370,South,548258,Salaried,Own,Pune
+B00371,Borrower 371,East,,Self-Employed,Mortgage,Pune
+B00372,Borrower 372,East,"₹335,075",Salaried,Mortgage,Lucknow
+B00373,Borrower 373,North,590564,Business Owner,Rent,Chennai
+B00374,Borrower 374,Central,1302978,Salaried,Mortgage,Delhi
+B00375,Borrower 375,South,1348119,Self-Employed,Rent,Delhi
+B00376,Borrower 376,West,8.4 LPA,Salaried,Own,Pune
+B00377,Borrower 377,West,483397,Salaried,Rent,Bengaluru
+B00378,Borrower 378,South,587405,Salaried,Own,Chennai
+B00379,Borrower 379,Central,"₹880,847",Salaried,Own,Pune
+B00380,Borrower 380,West,2384731,Salaried,Rent,Lucknow
+B00381,Borrower 381,North,8.7 LPA,Salaried,Family,Delhi
+B00382,Borrower 382,North,939623,Business Owner,Family,Chennai
+B00383,Borrower 383,South,1896488,Self-Employed,Rent,Mumbai
+B00384,Borrower 384,West,499000,Salaried,Family,Bengaluru
+B00385,Borrower 385,South,1414423,Salaried,Rent,Bengaluru
+B00386,Borrower 386,South,"₹848,940",Business Owner,Family,Kolkata
+B00387,Borrower 387,South,450058,Salaried,Mortgage,Pune
+B00388,Borrower 388,North,1233796,Salaried,N/A,Lucknow
+B00389,Borrower 389,West,1058035,Salaried,Family,Indore
+B00390,Borrower 390,East,926688,Salaried,Rent,Hyderabad
+B00391,Borrower 391,West,26.8 LPA,Self-Employed,Rent,Lucknow
+B00392,Borrower 392,Central,1984350,Business Owner,Mortgage,Jaipur
+B00393,Borrower 393,West,"₹229,602",Salaried,Family,Bengaluru
+B00394,Borrower 394,East,402244,Self-Employed,Own,Mumbai
+B00395,Borrower 395,North,1704189,Self-Employed,Rent,Hyderabad
+B00396,Borrower 396,South,13.8 LPA,Salaried,Rent,Lucknow
+B00397,Borrower 397,South,486706,Salaried,Mortgage,Hyderabad
+B00398,Borrower 398,East,751302,Self-Employed,Own,Hyderabad
+B00399,Borrower 399,Central,425347,Salaried,Mortgage,Kolkata
+B00400,Borrower 400,West,"₹686,096",Self-Employed,Own,Bengaluru
+B00401,Borrower 401,North,10.5 LPA,Salaried,Rent,Delhi
+B00402,Borrower 402,South,809225,Business Owner,Rent,Lucknow
+B00403,Borrower 403,East,797851,Salaried,Family,Pune
+B00404,Borrower 404,North,818034,Contract,Mortgage,Bengaluru
+B00405,Borrower 405, SOUTH ,1207508,Self-Employed,Mortgage,Indore
+B00406,Borrower 406,North,4.8 LPA,Salaried,Rent,Pune
+B00407,Borrower 407,Central,"₹621,833",Salaried,Own,Pune
+B00408,Borrower 408,South,,Contract,Rent,Lucknow
+B00409,Borrower 409,East,299638,Self-Employed,Rent,Jaipur
+B00410,Borrower 410,North,432859,Business Owner,Mortgage,Bengaluru
+B00411,Borrower 411,Central,9.8 LPA,Salaried,Own,Mumbai
+B00412,Borrower 412,East,2372250,Business Owner,Rent,Mumbai
+B00413,Borrower 413,East,960577,Salaried,Mortgage,Delhi
+B00414,Borrower 414,Central,"₹1,024,120",Business Owner,Own,Kolkata
+B00415,Borrower 415,South,1330920,Business Owner,Own,Delhi
+B00416,Borrower 416,South,3.4 LPA,Salaried,Mortgage,Lucknow
+B00417,Borrower 417,North,452872,Salaried,Family,Jaipur
+B00418,Borrower 418,Central,668834,Business Owner,Rent,Kolkata
+B00419,Borrower 419,North,373091,Business Owner,Own,Mumbai
+B00420,Borrower 420,West,1184401,Salaried,Mortgage,Delhi
+B00421,Borrower 421,Central,"₹761,600",Self-Employed,Mortgage,Lucknow
+B00422,Borrower 422,South,387608,Salaried,Rent,Pune
+B00423,Borrower 423,West,629540,Self-Employed,Own,Bengaluru
+B00424,Borrower 424,North,590322,Business Owner,Mortgage,Lucknow
+B00425,Borrower 425,East,825121,Salaried,Mortgage,Jaipur
+B00426,Borrower 426,West,11.2 LPA,Salaried,Own,Kolkata
+B00427,Borrower 427,West,676900,BUSINESS OWNER,Own,Hyderabad
+B00428,Borrower 428,South,"₹356,429",Salaried,Mortgage,Jaipur
+B00429,Borrower 429,East,737127,Salaried,Own,Delhi
+B00430,Borrower 430,North,705031,Salaried,Rent,Bengaluru
+B00431,Borrower 431,South,5.6 LPA,Salaried,Own,Bengaluru
+B00432,Borrower 432,Central,724328,Business Owner,Rent,Kolkata
+B00433,Borrower 433,South,488784,Business Owner,Own,Hyderabad
+B00434,Borrower 434,West,536318,Salaried,Family,Delhi
+B00435,Borrower 435,South,"₹1,377,662",Salaried,Rent,Lucknow
+B00436,Borrower 436,North,10.1 LPA,Business Owner,Own,Lucknow
+B00437,Borrower 437,North,1038562,Salaried,Rent,Delhi
+B00438,Borrower 438,North,703017,Salaried,Own,Pune
+B00439,Borrower 439,South,462621,Business Owner,Rent,Lucknow
+B00440,Borrower 440,South,882395,Business Owner,Own,Hyderabad
+B00441,Borrower 441,East,12.9 LPA,Self-Employed,Own,Kolkata
+B00442,Borrower 442,West,"₹364,094",Business Owner,Mortgage,Lucknow
+B00443,Borrower 443,South,886099,Salaried,Rent,Jaipur
+B00444,Borrower 444,South,507210,Salaried,Rent,Indore
+B00445,Borrower 445,Central,,Salaried,Mortgage,Hyderabad
+B00446,Borrower 446,North,5.0 LPA,Contract,Rent,chennai
+B00447,Borrower 447,West,569302,Self-Employed,Own,Jaipur
+B00448,Borrower 448,South,354917,Salaried,Mortgage,Bengaluru
+B00449,Borrower 449,North,"₹384,817",Salaried,Rent,Mumbai
+B00450,Borrower 450,East,709035,Salaried,Rent,Lucknow
+B00451,Borrower 451,West,9.9 LPA,Self-Employed,Family,Indore
+B00452,Borrower 452,West,808069,Salaried,Rent,Lucknow
+B00453,Borrower 453,Central,1017803,Salaried,Rent,Hyderabad
+B00454,Borrower 454,South,803651,Salaried,Mortgage,Bengaluru
+B00455,Borrower 455,East,1500644,Salaried,Rent,Mumbai
+B00456,Borrower 456,North,"₹1,421,494",Salaried,Rent,Indore
+B00457,Borrower 457,Central,417034,Business Owner,Rent,Kolkata
+B00458,Borrower 458,South,628978,Salaried,Own,Pune
+B00459,Borrower 459,East,349479,Salaried,Rent,Kolkata
+B00460,Borrower 460,North,543247,Salaried,Mortgage,Delhi
+B00461,Borrower 461,South,8.6 LPA,Salaried,Rent,Lucknow
+B00462,Borrower 462,North,504990,Salaried,Family,Bengaluru
+B00463,Borrower 463,East,"₹288,642",Salaried,Family,Kolkata
+B00464,Borrower 464,West,1074620,Salaried,Rent,Pune
+B00465,Borrower 465,Central,491705,Self-Employed,Mortgage,Bengaluru
+B00466,Borrower 466,South,2.6 LPA,Salaried,Family,Hyderabad
+B00467,Borrower 467,South,620576,Salaried,Rent,Indore
+B00468,Borrower 468,North,818346,Contract,Own,Bengaluru
+B00469,Borrower 469,East,657968,Salaried,Family,Mumbai
+B00470,Borrower 470,South,"₹359,368",Salaried,Family,Pune
+B00471,Borrower 471,West,10.2 LPA,Business Owner,Rent,Mumbai
+B00472,Borrower 472,West,345985,Salaried,Rent,Jaipur
+B00473,Borrower 473,East,1042619,Salaried,Mortgage,Chennai
+B00474,Borrower 474,North,198531,Salaried,Mortgage,Lucknow
+B00475,Borrower 475,East,471937,Business Owner,Family,Indore
+B00476,Borrower 476,Central,7.7 LPA,Self-Employed,Own,Bengaluru
+B00477,Borrower 477,North,"₹578,217",Business Owner,Mortgage,Pune
+B00478,Borrower 478,East,725866,Salaried,Family,Lucknow
+B00479,Borrower 479,North,639866,Salaried,Mortgage,Kolkata
+B00480,Borrower 480,East,298760,Salaried,Rent,Jaipur
+B00481,Borrower 481,South,3.7 LPA,Business Owner,Mortgage,Hyderabad
+B00482,Borrower 482,West,,Salaried,Rent,Lucknow
+B00483,Borrower 483,East,1268464,Self-Employed,Own,Jaipur
+B00484,Borrower 484,East,"₹585,381",Salaried,Own,Delhi
+B00485,Borrower 485,Central,1649343,Business Owner,Own,Jaipur
+B00486,Borrower 486,West,4.9 LPA,Business Owner,Rent,Bengaluru
+B00487,Borrower 487,West,1041989,Salaried,Family,Indore
+B00488,Borrower 488,North,204020,Salaried,Rent,Hyderabad
+B00489,Borrower 489,South,427064,Salaried,Mortgage,Kolkata
+B00490,Borrower 490,South,511323,Salaried,Mortgage,Delhi
+B00491,Borrower 491,North,"₹1,140,516",Business Owner,Rent,Delhi
+B00492,Borrower 492,East,525970,Salaried,Rent,Chennai
+B00493,Borrower 493,Central,501285,Salaried,Family,Kolkata
+B00494,Borrower 494,West,395564,Salaried,Rent,Pune
+B00495,Borrower 495,North,1558002,Contract,Mortgage,Bengaluru
+B00496,Borrower 496,West,14.8 LPA,Salaried,Rent,Kolkata
+B00497,Borrower 497,South,470609,Business Owner,Rent,Pune
+B00498,Borrower 498,South,"₹788,439",SALARIED,Family,Mumbai
+B00499,Borrower 499,Central,738139,Contract,Rent,Lucknow
+B00500,Borrower 500,North,506076,Business Owner,Rent,Kolkata
+B00501,Borrower 501,North,7.7 LPA,Self-Employed,Rent,Bengaluru
+B00502,Borrower 502,South,534702,Salaried,Rent,Lucknow
+B00503,Borrower 503,South,409095,Contract,Rent,Jaipur
+B00504,Borrower 504,North,801809,Self-Employed,Rent,Kolkata
+B00505,Borrower 505,West,"₹734,447",Contract,Own,Kolkata
+B00506,Borrower 506, SOUTH ,3.4 LPA,Contract,Own,Hyderabad
+B00507,Borrower 507,East,790998,Salaried,Rent,Lucknow
+B00508,Borrower 508,East,532326,Salaried,Family,Hyderabad
+B00509,Borrower 509,South,695569,Salaried,Family,Delhi
+B00510,Borrower 510,South,679743,Contract,Rent,Bengaluru
+B00511,Borrower 511,West,9.2 LPA,Salaried,Rent,Lucknow
+B00512,Borrower 512,West,"₹811,081",Salaried,Rent,Indore
+B00513,Borrower 513,Central,830003,Salaried,Mortgage,Indore
+B00514,Borrower 514,West,483789,Salaried,Rent,Delhi
+B00515,Borrower 515,East,353701,Business Owner,Rent,Delhi
+B00516,Borrower 516,East,4.2 LPA,Self-Employed,Own,Chennai
+B00517,Borrower 517,South,175102,Salaried,Mortgage,Hyderabad
+B00518,Borrower 518,West,657771,Contract,Rent,Kolkata
+B00519,Borrower 519,West,,Self-Employed,Family,Bengaluru
+B00520,Borrower 520,South,376707,Salaried,Mortgage,Lucknow
+B00521,Borrower 521,North,13.2 LPA,Salaried,Own,Hyderabad
+B00522,Borrower 522,West,765587,Salaried,Rent,Chennai
+B00523,Borrower 523,West,394766,Business Owner,Own,Chennai
+B00524,Borrower 524,South,429381,Salaried,Rent,Pune
+B00525,Borrower 525,South,1267851,Salaried,Family,Pune
+B00526,Borrower 526,South,"₹828,115",Salaried,Mortgage,Lucknow
+B00527,Borrower 527,South,904624,Contract,Mortgage,Kolkata
+B00528,Borrower 528,West,496636,Salaried,Own,Bengaluru
+B00529,Borrower 529,East,532522,Contract,Own,Delhi
+B00530,Borrower 530,East,753098,Salaried,Rent,Jaipur
+B00531,Borrower 531,South,5.2 LPA,Business Owner,Family,Indore
+B00532,Borrower 532,Central,3442630,Business Owner,Rent,Jaipur
+B00533,Borrower 533,Central,"₹1,187,083",Salaried,Family,Mumbai
+B00534,Borrower 534,Central,781582,Salaried,Mortgage,Jaipur
+B00535,Borrower 535,West,1241378,Self-Employed,Mortgage,hyderabad
+B00536,Borrower 536,South,4.5 LPA,Contract,Rent,Delhi
+B00537,Borrower 537,South,489785,Contract,Mortgage,Kolkata
+B00538,Borrower 538,East,618873,Self-Employed,Own,Kolkata
+B00539,Borrower 539,South,776306,Salaried,Rent,Kolkata
+B00540,Borrower 540,North,"₹839,631",Salaried,Rent,Lucknow
+B00541,Borrower 541,Central,21.7 LPA,Salaried,Family,Mumbai
+B00542,Borrower 542,West,897392,Self-Employed,Rent,Lucknow
+B00543,Borrower 543,East,901917,Contract,Rent,Bengaluru
+B00544,Borrower 544,West,702627,Self-Employed,Mortgage,Bengaluru
+B00545,Borrower 545,Central,539336,Salaried,Family,Mumbai
+B00546,Borrower 546,West,14.0 LPA,Self-Employed,Own,Pune
+B00547,Borrower 547,North,"₹358,885",Business Owner,Own,Kolkata
+B00548,Borrower 548,South,900020,Salaried,Mortgage,Pune
+B00549,Borrower 549,East,937176,Business Owner,Own,Mumbai
+B00550,Borrower 550,South,1217616,Salaried,Rent,Chennai
+B00551,Borrower 551,East,8.7 LPA,Salaried,Mortgage,Chennai
+B00552,Borrower 552,North,412816,Salaried,Rent,Jaipur
+B00553,Borrower 553,East,401059,Salaried,Own,Bengaluru
+B00554,Borrower 554,West,"₹303,649",Salaried,Rent,Lucknow
+B00555,Borrower 555,West,759654,Salaried,N/A,Hyderabad
+B00556,Borrower 556,South,,Salaried,Own,Mumbai
+B00557,Borrower 557,North,412272,Self-Employed,Own,Mumbai
+B00558,Borrower 558,South,902343,Self-Employed,Own,Lucknow
+B00559,Borrower 559,South,456416,Contract,Rent,Pune
+B00560,Borrower 560,East,1744805,Salaried,Mortgage,Pune
+B00561,Borrower 561,North,"₹505,399",Salaried,Own,Indore
+B00562,Borrower 562,West,216389,Salaried,Rent,Indore
+B00563,Borrower 563,West,713289,Salaried,Rent,Bengaluru
+B00564,Borrower 564,North,711436,Business Owner,Own,Chennai
+B00565,Borrower 565,East,173121,Business Owner,Family,Kolkata
+B00566,Borrower 566,South,4.0 LPA,Salaried,Family,Kolkata
+B00567,Borrower 567,North,1060752,Business Owner,Own,Mumbai
+B00568,Borrower 568,Central,"₹289,606",Salaried,Rent,Kolkata
+B00569,Borrower 569,South,538277,SELF-EMPLOYED,Rent,Indore
+B00570,Borrower 570,South,422763,Salaried,Rent,Lucknow
+B00571,Borrower 571,North,16.8 LPA,Business Owner,Mortgage,Lucknow
+B00572,Borrower 572,West,811532,Salaried,Family,Kolkata
+B00573,Borrower 573,West,3431520,Salaried,Family,Lucknow
+B00574,Borrower 574,South,384292,Salaried,Family,Chennai
+B00575,Borrower 575,South,"₹2,221,614",Business Owner,Rent,Mumbai
+B00576,Borrower 576,South,26.6 LPA,Self-Employed,Mortgage,Delhi
+B00577,Borrower 577,West,459508,Salaried,Own,Delhi
+B00578,Borrower 578,West,802444,Salaried,Own,Indore
+B00579,Borrower 579,South,608886,Business Owner,Mortgage,Indore
+B00580,Borrower 580,South,419964,Business Owner,Own,Lucknow
+B00581,Borrower 581,North,3.0 LPA,Business Owner,Rent,Indore
+B00582,Borrower 582,West,"₹785,171",Salaried,Mortgage,Hyderabad
+B00583,Borrower 583,Central,1272108,Self-Employed,Rent,Indore
+B00584,Borrower 584,North,725602,Self-Employed,Rent,Jaipur
+B00585,Borrower 585,South,975284,Business Owner,Rent,Indore
+B00586,Borrower 586,West,7.2 LPA,Contract,Rent,Chennai
+B00587,Borrower 587,West,1226666,Salaried,Family,Indore
+B00588,Borrower 588,West,382474,Self-Employed,Mortgage,Lucknow
+B00589,Borrower 589,Central,"₹822,398",Salaried,Rent,Jaipur
+B00590,Borrower 590,West,1533629,Contract,Rent,Mumbai
+B00591,Borrower 591,West,12.4 LPA,Salaried,Rent,Jaipur
+B00592,Borrower 592,West,488336,Self-Employed,Mortgage,Pune
+B00593,Borrower 593,West,,Self-Employed,Rent,Kolkata
+B00594,Borrower 594,East,387168,Salaried,Mortgage,Bengaluru
+B00595,Borrower 595,West,782727,Business Owner,Family,Chennai
+B00596,Borrower 596,South,"₹554,412",Self-Employed,Rent,Indore
+B00597,Borrower 597,South,2109489,Salaried,Own,Pune
+B00598,Borrower 598,East,1060480,Business Owner,Rent,Hyderabad
+B00599,Borrower 599,West,1417412,Self-Employed,Mortgage,Indore
+B00600,Borrower 600,Central,627428,Salaried,Rent,Chennai
+B00601,Borrower 601,South,5.6 LPA,Salaried,Mortgage,Hyderabad
+B00602,Borrower 602,Central,635453,Contract,Family,Pune
+B00603,Borrower 603,East,"₹874,960",Self-Employed,Own,Hyderabad
+B00604,Borrower 604,Central,526679,Self-Employed,Own,Indore
+B00605,Borrower 605,West,646356,Salaried,Own,Jaipur
+B00606,Borrower 606,South,8.4 LPA,Self-Employed,Own,Pune
+B00607,Borrower 607, SOUTH ,742096,Contract,Mortgage,Mumbai
+B00608,Borrower 608,North,622641,Salaried,Rent,Lucknow
+B00609,Borrower 609,North,920831,Salaried,Rent,Chennai
+B00610,Borrower 610,North,"₹722,305",Business Owner,Mortgage,Delhi
+B00611,Borrower 611,South,4.7 LPA,Business Owner,Mortgage,Jaipur
+B00612,Borrower 612,South,569849,Salaried,Rent,Lucknow
+B00613,Borrower 613,East,882863,Salaried,Family,Mumbai
+B00614,Borrower 614,West,1052466,Salaried,Mortgage,Hyderabad
+B00615,Borrower 615,East,524892,Salaried,Own,Jaipur
+B00616,Borrower 616,West,13.9 LPA,Salaried,Mortgage,Chennai
+B00617,Borrower 617,Central,"₹361,080",Salaried,Mortgage,Indore
+B00618,Borrower 618,South,701620,Salaried,Mortgage,Indore
+B00619,Borrower 619,North,618693,Salaried,Rent,Pune
+B00620,Borrower 620,East,867179,Contract,Own,Chennai
+B00621,Borrower 621,South,4.7 LPA,Self-Employed,Family,Hyderabad
+B00622,Borrower 622,West,566036,Salaried,Own,Pune
+B00623,Borrower 623,East,679779,Salaried,Family,Bengaluru
+B00624,Borrower 624,North,"₹703,246",Self-Employed,Own,delhi
+B00625,Borrower 625,South,560001,Salaried,Own,Pune
+B00626,Borrower 626,South,8.2 LPA,Self-Employed,Own,Pune
+B00627,Borrower 627,South,378743,Self-Employed,Rent,Delhi
+B00628,Borrower 628,South,1178891,Salaried,Own,Pune
+B00629,Borrower 629,North,597257,Self-Employed,Family,Hyderabad
+B00630,Borrower 630,East,,Self-Employed,Own,Indore
+B00631,Borrower 631,North,"₹201,643",Business Owner,Family,Lucknow
+B00632,Borrower 632,North,1386832,Self-Employed,Rent,Kolkata
+B00633,Borrower 633,West,480212,Salaried,Rent,Indore
+B00634,Borrower 634,South,649937,Business Owner,Rent,Kolkata
+B00635,Borrower 635,North,894061,Self-Employed,Rent,Kolkata
+B00636,Borrower 636,East,3.5 LPA,Contract,Mortgage,Jaipur
+B00637,Borrower 637,South,726417,Salaried,Family,Kolkata
+B00638,Borrower 638,Central,"₹528,059",Salaried,Rent,Pune
+B00639,Borrower 639,West,416781,Business Owner,Own,Mumbai
+B00640,Borrower 640,South,384159,SALARIED,Family,Mumbai
+B00641,Borrower 641,South,30.2 LPA,Salaried,Family,Chennai
+B00642,Borrower 642,East,594751,Business Owner,Family,Lucknow
+B00643,Borrower 643,East,1004348,Salaried,Mortgage,Hyderabad
+B00644,Borrower 644,Central,702490,Self-Employed,Family,Indore
+B00645,Borrower 645,South,"₹804,698",Self-Employed,Rent,Hyderabad
+B00646,Borrower 646,West,7.7 LPA,Salaried,Family,Kolkata
+B00647,Borrower 647,Central,724349,Business Owner,Family,Bengaluru
+B00648,Borrower 648,East,199737,Salaried,Own,Pune
+B00649,Borrower 649,North,389754,Self-Employed,Mortgage,Pune
+B00650,Borrower 650,South,1201292,Self-Employed,Rent,Indore
+B00651,Borrower 651,West,3.9 LPA,Salaried,Own,Delhi
+B00652,Borrower 652,North,"₹1,941,226",Self-Employed,Mortgage,Hyderabad
+B00653,Borrower 653,North,444523,Salaried,Own,Hyderabad
+B00654,Borrower 654,Central,1703716,Business Owner,Rent,Bengaluru
+B00655,Borrower 655,Central,821287,Self-Employed,Family,Delhi
+B00656,Borrower 656,North,6.3 LPA,Salaried,Family,Lucknow
+B00657,Borrower 657,Central,663532,Salaried,Mortgage,Bengaluru
+B00658,Borrower 658,South,1983400,Salaried,Rent,Pune
+B00659,Borrower 659,West,"₹410,804",Self-Employed,Family,Delhi
+B00660,Borrower 660,South,542897,Salaried,Family,Lucknow
+B00661,Borrower 661,Central,9.9 LPA,Self-Employed,Family,Kolkata
+B00662,Borrower 662,South,613114,Contract,Rent,Delhi
+B00663,Borrower 663,West,614293,Business Owner,Family,Bengaluru
+B00664,Borrower 664,West,386508,Salaried,Mortgage,Lucknow
+B00665,Borrower 665,West,490547,Business Owner,Rent,Indore
+B00666,Borrower 666,North,"₹453,521",Business Owner,Rent,Delhi
+B00667,Borrower 667,West,,Self-Employed,Mortgage,Bengaluru
+B00668,Borrower 668,North,918993,Self-Employed,Own,Hyderabad
+B00669,Borrower 669,Central,286457,Salaried,Rent,Indore
+B00670,Borrower 670,West,542440,Self-Employed,Own,Hyderabad
+B00671,Borrower 671,West,6.8 LPA,Salaried,Family,Indore
+B00672,Borrower 672,West,1584799,Salaried,Rent,Hyderabad
+B00673,Borrower 673,South,"₹1,085,510",Salaried,Rent,Indore
+B00674,Borrower 674,Central,1961637,Salaried,Rent,Kolkata
+B00675,Borrower 675,West,1974544,Business Owner,Own,Mumbai
+B00676,Borrower 676,Central,4.4 LPA,Self-Employed,Family,Mumbai
+B00677,Borrower 677,East,856287,Salaried,Rent,Lucknow
+B00678,Borrower 678,South,1478298,Contract,Rent,Chennai
+B00679,Borrower 679,Central,322128,Self-Employed,Rent,Delhi
+B00680,Borrower 680,West,"₹973,424",Contract,Rent,Hyderabad
+B00681,Borrower 681,Central,11.7 LPA,Self-Employed,Mortgage,Indore
+B00682,Borrower 682,Central,1655582,Salaried,Rent,Indore
+B00683,Borrower 683,Central,979644,Business Owner,Family,Mumbai
+B00684,Borrower 684,Central,560955,Salaried,Family,Kolkata
+B00685,Borrower 685,West,433232,Business Owner,Own,Bengaluru
+B00686,Borrower 686,North,5.1 LPA,Business Owner,Own,Jaipur
+B00687,Borrower 687,South,"₹2,118,940",Salaried,Mortgage,Chennai
+B00688,Borrower 688,South,577529,Salaried,Family,Kolkata
+B00689,Borrower 689,South,504722,Contract,Rent,Lucknow
+B00690,Borrower 690,West,542676,Self-Employed,Mortgage,Delhi
+B00691,Borrower 691,West,13.2 LPA,Contract,Own,Delhi
+B00692,Borrower 692,West,1225100,Salaried,Rent,Bengaluru
+B00693,Borrower 693,West,623484,Salaried,Own,Delhi
+B00694,Borrower 694,Central,"₹1,045,928",Business Owner,Own,Indore
+B00695,Borrower 695,Central,763843,Contract,Rent,Kolkata
+B00696,Borrower 696,North,9.1 LPA,Self-Employed,Family,Chennai
+B00697,Borrower 697,South,851036,Self-Employed,Rent,Hyderabad
+B00698,Borrower 698,South,912203,Salaried,Own,Kolkata
+B00699,Borrower 699,South,627181,Business Owner,Mortgage,Chennai
+B00700,Borrower 700,Central,314937,Salaried,Family,Delhi
+B00701,Borrower 701,Central,"₹480,404",Salaried,Family,Pune
+B00702,Borrower 702,South,739232,Business Owner,Own,Pune
+B00703,Borrower 703,North,628512,Self-Employed,Mortgage,Chennai
+B00704,Borrower 704,Central,,Self-Employed,Rent,Hyderabad
+B00705,Borrower 705,Central,320578,Salaried,Own,Jaipur
+B00706,Borrower 706,East,11.9 LPA,Salaried,Family,Indore
+B00707,Borrower 707,South,1774242,Salaried,Rent,Delhi
+B00708,Borrower 708, WEST ,"₹1,852,838",Salaried,Mortgage,Hyderabad
+B00709,Borrower 709,Central,676289,Salaried,Own,Chennai
+B00710,Borrower 710,East,1392372,Salaried,Family,Chennai
+B00711,Borrower 711,North,5.3 LPA,BUSINESS OWNER,Mortgage,Pune
+B00712,Borrower 712,West,676042,Salaried,Mortgage,Mumbai
+B00713,Borrower 713,Central,998358,Salaried,Own,chennai
+B00714,Borrower 714,Central,243486,Self-Employed,Rent,Lucknow
+B00715,Borrower 715,South,"₹1,014,229",Salaried,Own,Lucknow
+B00716,Borrower 716,North,1.8 LPA,Contract,Mortgage,Pune
+B00717,Borrower 717,South,839380,Business Owner,Own,Delhi
+B00718,Borrower 718,South,674186,Business Owner,Rent,Lucknow
+B00719,Borrower 719,West,1033516,Salaried,Own,Lucknow
+B00720,Borrower 720,West,445032,Contract,Mortgage,Bengaluru
+B00721,Borrower 721,West,7.2 LPA,Salaried,Own,Jaipur
+B00722,Borrower 722,North,"₹1,168,331",Business Owner,N/A,Indore
+B00723,Borrower 723,East,1342035,Business Owner,Rent,Mumbai
+B00724,Borrower 724,East,770876,Contract,Own,Mumbai
+B00725,Borrower 725,Central,1214041,Business Owner,Family,Lucknow
+B00726,Borrower 726,Central,7.2 LPA,Salaried,Own,Jaipur
+B00727,Borrower 727,East,760489,Business Owner,Own,Bengaluru
+B00728,Borrower 728,South,653319,Business Owner,Rent,Chennai
+B00729,Borrower 729,South,"₹716,763",Salaried,Family,Indore
+B00730,Borrower 730,South,211163,Salaried,Own,Chennai
+B00731,Borrower 731,South,11.5 LPA,Business Owner,Own,Kolkata
+B00732,Borrower 732,Central,890026,Salaried,Family,Lucknow
+B00733,Borrower 733,South,831389,Business Owner,Rent,Hyderabad
+B00734,Borrower 734,East,646312,Business Owner,Mortgage,Hyderabad
+B00735,Borrower 735,Central,1526474,Salaried,Own,Chennai
+B00736,Borrower 736,Central,"₹641,523",Contract,Mortgage,Delhi
+B00737,Borrower 737,West,921219,Business Owner,Own,Jaipur
+B00738,Borrower 738,South,1170392,Self-Employed,Mortgage,Pune
+B00739,Borrower 739,South,1278185,Contract,Mortgage,Jaipur
+B00740,Borrower 740,East,1048215,Business Owner,Own,Hyderabad
+B00741,Borrower 741,East,,Salaried,Rent,Indore
+B00742,Borrower 742,South,595720,Business Owner,Rent,Jaipur
+B00743,Borrower 743,East,"₹640,117",Contract,Family,Kolkata
+B00744,Borrower 744,East,696895,Self-Employed,Own,Lucknow
+B00745,Borrower 745,East,679643,Salaried,Rent,Pune
+B00746,Borrower 746,East,7.7 LPA,Contract,Family,Hyderabad
+B00747,Borrower 747,West,572058,Salaried,Mortgage,Mumbai
+B00748,Borrower 748,West,416353,Business Owner,Rent,Kolkata
+B00749,Borrower 749,West,1025824,Salaried,Own,Jaipur
+B00750,Borrower 750,West,"₹525,167",Salaried,Rent,Lucknow
+B00751,Borrower 751,North,4.6 LPA,Salaried,Family,Kolkata
+B00752,Borrower 752,South,710768,Business Owner,Rent,Mumbai
+B00753,Borrower 753,North,760315,Self-Employed,Family,Bengaluru
+B00754,Borrower 754,South,782068,Self-Employed,Family,Pune
+B00755,Borrower 755,Central,2211877,Salaried,Mortgage,Kolkata
+B00756,Borrower 756,South,9.3 LPA,Self-Employed,Family,Bengaluru
+B00757,Borrower 757,West,"₹1,422,505",Contract,Rent,Kolkata
+B00758,Borrower 758,Central,2009709,Business Owner,Rent,Bengaluru
+B00759,Borrower 759,West,441953,Self-Employed,Own,Lucknow
+B00760,Borrower 760,West,345224,Salaried,Family,Mumbai
+B00761,Borrower 761,East,12.8 LPA,Salaried,Family,Kolkata
+B00762,Borrower 762,South,1753596,Salaried,Rent,Hyderabad
+B00763,Borrower 763,South,353694,Salaried,Own,Delhi
+B00764,Borrower 764,South,"₹669,947",Salaried,Family,Bengaluru
+B00765,Borrower 765,East,674277,Self-Employed,Own,Delhi
+B00766,Borrower 766,South,3.4 LPA,Self-Employed,Own,Delhi
+B00767,Borrower 767,Central,507494,Salaried,Family,Lucknow
+B00768,Borrower 768,North,912768,Self-Employed,Family,Mumbai
+B00769,Borrower 769,North,1089144,Salaried,Own,Indore
+B00770,Borrower 770,East,501551,Self-Employed,Own,Bengaluru
+B00771,Borrower 771,Central,"₹874,731",Contract,Family,Delhi
+B00772,Borrower 772,South,1968878,Salaried,Family,Hyderabad
+B00773,Borrower 773,South,1621449,Salaried,Rent,Kolkata
+B00774,Borrower 774,North,601574,Salaried,Own,Chennai
+B00775,Borrower 775,North,508521,Salaried,Own,Indore
+B00776,Borrower 776,East,8.8 LPA,Self-Employed,Rent,Jaipur
+B00777,Borrower 777,East,603057,Salaried,Family,Indore
+B00778,Borrower 778,North,,Salaried,Rent,Delhi
+B00779,Borrower 779,Central,452008,Salaried,Rent,Mumbai
+B00780,Borrower 780,South,186747,Business Owner,Rent,Indore
+B00781,Borrower 781,West,9.1 LPA,Salaried,Rent,Hyderabad
+B00782,Borrower 782,East,525013,SALARIED,Rent,Jaipur
+B00783,Borrower 783,East,395631,Salaried,Rent,Chennai
+B00784,Borrower 784,East,1449854,Salaried,Own,Bengaluru
+B00785,Borrower 785,West,"₹726,302",Self-Employed,Own,Hyderabad
+B00786,Borrower 786,North,9.5 LPA,Self-Employed,Rent,Bengaluru
+B00787,Borrower 787,East,253777,Contract,Rent,Mumbai
+B00788,Borrower 788,South,615720,Business Owner,Rent,Pune
+B00789,Borrower 789,North,399474,Salaried,Rent,Indore
+B00790,Borrower 790,North,976930,Self-Employed,Rent,Lucknow
+B00791,Borrower 791,East,4.6 LPA,Contract,Own,Hyderabad
+B00792,Borrower 792,East,"₹494,224",Salaried,Mortgage,Mumbai
+B00793,Borrower 793,South,835056,Salaried,Rent,Bengaluru
+B00794,Borrower 794,East,241159,Salaried,Own,Indore
+B00795,Borrower 795,West,614201,Self-Employed,Mortgage,Bengaluru
+B00796,Borrower 796,West,9.3 LPA,Business Owner,Family,Chennai
+B00797,Borrower 797,North,974905,Salaried,Rent,Hyderabad
+B00798,Borrower 798,West,547544,Contract,Family,Pune
+B00799,Borrower 799,West,"₹701,034",Self-Employed,Own,Pune
+B00800,Borrower 800,West,398632,Contract,Rent,Mumbai
+B00801,Borrower 801,North,7.4 LPA,Business Owner,Mortgage,Hyderabad
+B00802,Borrower 802,North,1056879,Self-Employed,Own,jaipur
+B00803,Borrower 803,South,904606,Salaried,Own,Chennai
+B00804,Borrower 804,North,553900,Contract,Family,Lucknow
+B00805,Borrower 805,North,1350872,Salaried,Own,Chennai
+B00806,Borrower 806,Central,"₹729,311",Salaried,Rent,Bengaluru
+B00807,Borrower 807,East,602297,Salaried,Family,Bengaluru
+B00808,Borrower 808,North,148564,Self-Employed,Own,Hyderabad
+B00809,Borrower 809, SOUTH ,1019582,Salaried,Rent,Chennai
+B00810,Borrower 810,North,688830,Salaried,Mortgage,Lucknow
+B00811,Borrower 811,West,11.6 LPA,Business Owner,Own,Kolkata
+B00812,Borrower 812,South,1315437,Business Owner,Own,Hyderabad
+B00813,Borrower 813,North,"₹1,760,255",Salaried,Rent,Kolkata
+B00814,Borrower 814,South,966128,Contract,Rent,Pune
+B00815,Borrower 815,West,,Salaried,Own,Jaipur
+B00816,Borrower 816,South,10.9 LPA,Salaried,Own,Bengaluru
+B00817,Borrower 817,North,818347,Business Owner,Own,Jaipur
+B00818,Borrower 818,South,450124,Salaried,Mortgage,Lucknow
+B00819,Borrower 819,Central,1373234,Business Owner,Rent,Lucknow
+B00820,Borrower 820,South,"₹703,439",Self-Employed,Rent,Pune
+B00821,Borrower 821,West,6.8 LPA,Self-Employed,Own,Jaipur
+B00822,Borrower 822,North,997436,Salaried,Own,Kolkata
+B00823,Borrower 823,Central,568677,Salaried,Mortgage,Mumbai
+B00824,Borrower 824,West,616016,Salaried,Rent,Indore
+B00825,Borrower 825,West,370984,Contract,Family,Kolkata
+B00826,Borrower 826,East,5.9 LPA,Salaried,Rent,Pune
+B00827,Borrower 827,West,"₹426,540",Business Owner,Own,Mumbai
+B00828,Borrower 828,West,678959,Salaried,Family,Delhi
+B00829,Borrower 829,North,786446,Business Owner,Own,Mumbai
+B00830,Borrower 830,West,429108,Salaried,Own,Pune
+B00831,Borrower 831,Central,8.3 LPA,Self-Employed,Rent,Delhi
+B00832,Borrower 832,South,401449,Salaried,Family,Chennai
+B00833,Borrower 833,South,376817,Salaried,Own,Mumbai
+B00834,Borrower 834,South,"₹871,265",Business Owner,Mortgage,Bengaluru
+B00835,Borrower 835,East,304616,Business Owner,Rent,Kolkata
+B00836,Borrower 836,West,5.7 LPA,Salaried,Rent,Mumbai
+B00837,Borrower 837,North,1552557,Business Owner,Rent,Kolkata
+B00838,Borrower 838,West,699139,Self-Employed,Rent,Indore
+B00839,Borrower 839,South,402006,Salaried,Rent,Delhi
+B00840,Borrower 840,West,1119888,Salaried,Mortgage,Mumbai
+B00841,Borrower 841,North,"₹826,319",Salaried,Rent,Pune
+B00842,Borrower 842,West,1394322,Self-Employed,Rent,Indore
+B00843,Borrower 843,North,815840,Self-Employed,Rent,Lucknow
+B00844,Borrower 844,North,496012,Salaried,Rent,Pune
+B00845,Borrower 845,East,1021041,Salaried,Own,Hyderabad
+B00846,Borrower 846,South,13.9 LPA,Salaried,Own,Indore
+B00847,Borrower 847,South,1320646,Salaried,Family,Pune
+B00848,Borrower 848,South,"₹256,270",Self-Employed,Family,Chennai
+B00849,Borrower 849,Central,711612,Contract,Rent,Chennai
+B00850,Borrower 850,West,190175,Salaried,Rent,Pune
+B00851,Borrower 851,Central,7.0 LPA,Contract,Family,Jaipur
+B00852,Borrower 852,North,,Salaried,Mortgage,Delhi
+B00853,Borrower 853,South,848423,SALARIED,Rent,Jaipur
+B00854,Borrower 854,West,414933,Contract,Mortgage,Jaipur
+B00855,Borrower 855,South,"₹749,396",Salaried,Rent,Lucknow
+B00856,Borrower 856,North,16.6 LPA,Salaried,Rent,Lucknow
+B00857,Borrower 857,East,2968142,Business Owner,Rent,Chennai
+B00858,Borrower 858,Central,425188,Business Owner,Family,Delhi
+B00859,Borrower 859,Central,646348,Self-Employed,Mortgage,Chennai
+B00860,Borrower 860,South,467866,Self-Employed,Rent,Lucknow
+B00861,Borrower 861,South,9.1 LPA,Business Owner,Rent,Hyderabad
+B00862,Borrower 862,North,"₹811,295",Salaried,Mortgage,Bengaluru
+B00863,Borrower 863,West,1035241,Salaried,Family,Jaipur
+B00864,Borrower 864,East,672349,Salaried,Own,Jaipur
+B00865,Borrower 865,West,300754,Self-Employed,Family,Delhi
+B00866,Borrower 866,South,4.9 LPA,Salaried,Rent,Delhi
+B00867,Borrower 867,West,2986021,Salaried,Rent,Pune
+B00868,Borrower 868,Central,443636,Business Owner,Rent,Pune
+B00869,Borrower 869,North,"₹592,574",Self-Employed,Own,Kolkata
+B00870,Borrower 870,East,597371,Salaried,Own,Kolkata
+B00871,Borrower 871,North,8.7 LPA,Salaried,Family,Jaipur
+B00872,Borrower 872,North,1013552,Salaried,Rent,Pune
+B00873,Borrower 873,East,845862,Salaried,Mortgage,Jaipur
+B00874,Borrower 874,West,802583,Salaried,Rent,Mumbai
+B00875,Borrower 875,West,1644557,Salaried,Own,Kolkata
+B00876,Borrower 876,East,"₹700,853",Business Owner,Mortgage,Mumbai
+B00877,Borrower 877,Central,417194,Salaried,Family,Hyderabad
+B00878,Borrower 878,West,714096,Salaried,Mortgage,Mumbai
+B00879,Borrower 879,North,486369,Salaried,Rent,Hyderabad
+B00880,Borrower 880,South,571074,Self-Employed,Own,Chennai
+B00881,Borrower 881,Central,5.0 LPA,Self-Employed,Rent,Indore
+B00882,Borrower 882,North,669058,Salaried,Rent,Indore
+B00883,Borrower 883,South,"₹1,085,800",Salaried,Own,Lucknow
+B00884,Borrower 884,East,990275,Contract,Own,Jaipur
+B00885,Borrower 885,East,956021,Salaried,Mortgage,Lucknow
+B00886,Borrower 886,South,4.8 LPA,Salaried,Mortgage,Indore
+B00887,Borrower 887,Central,524753,Salaried,Family,Kolkata
+B00888,Borrower 888,West,450448,Contract,Own,Lucknow
+B00889,Borrower 889,East,,Salaried,N/A,Delhi
+B00890,Borrower 890,West,"₹1,173,785",Salaried,Family,Chennai
+B00891,Borrower 891,Central,12.4 LPA,Self-Employed,Mortgage,pune
+B00892,Borrower 892,West,935589,Salaried,Rent,Indore
+B00893,Borrower 893,Central,162880,Salaried,Mortgage,Delhi
+B00894,Borrower 894,Central,815063,Salaried,Rent,Delhi
+B00895,Borrower 895,East,710221,Salaried,Family,Lucknow
+B00896,Borrower 896,Central,12.5 LPA,Self-Employed,Family,Kolkata
+B00897,Borrower 897,East,"₹723,123",Self-Employed,Family,Indore
+B00898,Borrower 898,North,1054517,Self-Employed,Own,Mumbai
+B00899,Borrower 899,South,829367,Self-Employed,Rent,Chennai
+B00900,Borrower 900,West,343978,Salaried,Family,Delhi
+B00901,Borrower 901,East,7.9 LPA,Salaried,Rent,Lucknow
+B00902,Borrower 902,South,374012,Business Owner,Family,Mumbai
+B00903,Borrower 903,West,716006,Salaried,Rent,Indore
+B00904,Borrower 904,West,"₹1,464,307",Business Owner,Family,Bengaluru
+B00905,Borrower 905,East,357092,Salaried,Own,Hyderabad
+B00906,Borrower 906,Central,6.0 LPA,Contract,Rent,Mumbai
+B00907,Borrower 907,East,857218,Salaried,Family,Indore
+B00908,Borrower 908,South,974912,Business Owner,Rent,Delhi
+B00909,Borrower 909,Central,1552098,Salaried,Rent,Jaipur
+B00910,Borrower 910, EAST ,1072543,Self-Employed,Own,Chennai
+B00911,Borrower 911,South,"₹612,916",Self-Employed,Rent,Bengaluru
+B00912,Borrower 912,West,688906,Salaried,Family,Lucknow
+B00913,Borrower 913,Central,549091,Salaried,Rent,Pune
+B00914,Borrower 914,South,304495,Self-Employed,Mortgage,Hyderabad
+B00915,Borrower 915,West,737585,Contract,Own,Jaipur
+B00916,Borrower 916,South,4.9 LPA,Salaried,Rent,Delhi
+B00917,Borrower 917,West,498238,Salaried,Mortgage,Pune
+B00918,Borrower 918,Central,"₹989,858",Self-Employed,Own,Pune
+B00919,Borrower 919,West,319175,Business Owner,Own,Kolkata
+B00920,Borrower 920,Central,295174,Self-Employed,Own,Jaipur
+B00921,Borrower 921,South,22.4 LPA,Salaried,Rent,Chennai
+B00922,Borrower 922,South,559617,Salaried,Own,Kolkata
+B00923,Borrower 923,Central,2296862,Salaried,Rent,Hyderabad
+B00924,Borrower 924,West,530910,SALARIED,Rent,Kolkata
+B00925,Borrower 925,South,"₹380,585",Salaried,Family,Chennai
+B00926,Borrower 926,West,,Self-Employed,Family,Hyderabad
+B00927,Borrower 927,West,224463,Salaried,Family,Indore
+B00928,Borrower 928,Central,271899,Salaried,Family,Lucknow
+B00929,Borrower 929,Central,544101,Salaried,Rent,Mumbai
+B00930,Borrower 930,East,1455845,Salaried,Rent,Bengaluru
+B00931,Borrower 931,West,11.3 LPA,Self-Employed,Own,Chennai
+B00932,Borrower 932,West,"₹210,293",Salaried,Family,Lucknow
+B00933,Borrower 933,Central,996779,Salaried,Mortgage,Mumbai
+B00934,Borrower 934,South,646977,Business Owner,Mortgage,Delhi
+B00935,Borrower 935,South,532597,Self-Employed,Family,Hyderabad
+B00936,Borrower 936,North,5.5 LPA,Salaried,Rent,Chennai
+B00937,Borrower 937,West,350167,Self-Employed,Rent,Chennai
+B00938,Borrower 938,Central,300303,Self-Employed,Rent,Lucknow
+B00939,Borrower 939,Central,"₹1,112,893",Salaried,Family,Jaipur
+B00940,Borrower 940,West,474896,Business Owner,Rent,Chennai
+B00941,Borrower 941,West,6.8 LPA,Salaried,Own,Indore
+B00942,Borrower 942,South,589876,Business Owner,Rent,Bengaluru
+B00943,Borrower 943,West,837586,Salaried,Own,Bengaluru
+B00944,Borrower 944,South,834772,Salaried,Rent,Indore
+B00945,Borrower 945,Central,1001660,Salaried,Rent,Jaipur
+B00946,Borrower 946,South,"₹731,590",Salaried,Rent,Jaipur
+B00947,Borrower 947,West,639638,Self-Employed,Own,Hyderabad
+B00948,Borrower 948,Central,552819,Business Owner,Rent,Bengaluru
+B00949,Borrower 949,Central,221967,Self-Employed,Family,Jaipur
+B00950,Borrower 950,Central,401756,Self-Employed,Rent,Chennai
+B00951,Borrower 951,South,8.0 LPA,Business Owner,Rent,Indore
+B00952,Borrower 952,Central,522877,Self-Employed,Family,Kolkata
+B00953,Borrower 953,North,"₹472,941",Salaried,Family,Jaipur
+B00954,Borrower 954,South,490479,Salaried,Rent,Chennai
+B00955,Borrower 955,West,1287426,Salaried,Rent,Mumbai
+B00956,Borrower 956,North,7.5 LPA,Business Owner,Rent,Delhi
+B00957,Borrower 957,East,1675395,Self-Employed,Rent,Hyderabad
+B00958,Borrower 958,South,584156,Contract,Mortgage,Mumbai
+B00959,Borrower 959,East,639247,Business Owner,Family,Bengaluru
+B00960,Borrower 960,Central,"₹1,092,972",Self-Employed,Family,Chennai
+B00961,Borrower 961,West,12.0 LPA,Business Owner,Own,Bengaluru
+B00962,Borrower 962,West,679496,Salaried,Mortgage,Kolkata
+B00963,Borrower 963,West,,Self-Employed,Family,Lucknow
+B00964,Borrower 964,South,925799,Business Owner,Rent,Pune
+B00965,Borrower 965,East,312271,Self-Employed,Family,Kolkata
+B00966,Borrower 966,North,3.7 LPA,Contract,Own,Lucknow
+B00967,Borrower 967,North,"₹1,188,975",Salaried,Mortgage,Indore
+B00968,Borrower 968,Central,205024,Salaried,Rent,Indore
+B00969,Borrower 969,South,306377,Business Owner,Own,Hyderabad
+B00970,Borrower 970,East,270550,Business Owner,Rent,Indore
+B00971,Borrower 971,West,10.7 LPA,Self-Employed,Own,Kolkata
+B00972,Borrower 972,South,1416057,Contract,Mortgage,Lucknow
+B00973,Borrower 973,South,1042361,Contract,Family,Kolkata
+B00974,Borrower 974,South,"₹725,499",Business Owner,Mortgage,Hyderabad
+B00975,Borrower 975,Central,1394458,Salaried,Own,Kolkata
+B00976,Borrower 976,North,3.8 LPA,Salaried,Own,Lucknow
+B00977,Borrower 977,South,725837,Self-Employed,Rent,Indore
+B00978,Borrower 978,East,853576,Salaried,Mortgage,Pune
+B00979,Borrower 979,North,846661,Self-Employed,Family,Indore
+B00980,Borrower 980,West,679114,Self-Employed,Family,indore
+B00981,Borrower 981,West,"₹897,469",Salaried,Own,Delhi
+B00982,Borrower 982,Central,494463,Salaried,Rent,Chennai
+B00983,Borrower 983,Central,420046,Business Owner,Own,Kolkata
+B00984,Borrower 984,South,432892,Salaried,Own,Chennai
+B00985,Borrower 985,West,335305,Business Owner,Mortgage,Pune
+B00986,Borrower 986,East,12.7 LPA,Salaried,Rent,Jaipur
+B00987,Borrower 987,Central,525166,Salaried,Rent,Bengaluru
+B00988,Borrower 988,West,"₹1,185,736",Self-Employed,Mortgage,Mumbai
+B00989,Borrower 989,Central,2527397,Business Owner,Mortgage,Delhi
+B00990,Borrower 990,Central,622309,Business Owner,Own,Jaipur
+B00991,Borrower 991,South,5.7 LPA,Business Owner,Own,Lucknow
+B00992,Borrower 992,South,813309,Contract,Rent,Jaipur
+B00993,Borrower 993,Central,796800,Salaried,Rent,Pune
+B00994,Borrower 994,East,1016688,Salaried,Rent,Mumbai
+B00995,Borrower 995,North,"₹538,554",SALARIED,Rent,Jaipur
+B00996,Borrower 996,East,3.4 LPA,Salaried,Rent,Pune
+B00997,Borrower 997,East,482717,Salaried,Rent,Hyderabad
+B00998,Borrower 998,Central,962703,Salaried,Rent,Hyderabad
+B00999,Borrower 999,East,951009,Salaried,Rent,Kolkata
+B01000,Borrower 1000,North,,Salaried,Own,Jaipur
+B01001,Borrower 1001,West,3.9 LPA,Salaried,Family,Bengaluru
+B01002,Borrower 1002,East,"₹603,489",Business Owner,Family,Delhi
+B01003,Borrower 1003,South,321167,Salaried,Mortgage,Hyderabad
+B01004,Borrower 1004,Central,1353730,Salaried,Family,Bengaluru
+B01005,Borrower 1005,East,1028801,Salaried,Family,Bengaluru
+B01006,Borrower 1006,East,12.4 LPA,Salaried,Rent,Mumbai
+B01007,Borrower 1007,Central,317102,Self-Employed,Rent,Pune
+B01008,Borrower 1008,Central,660528,Salaried,Own,Pune
+B01009,Borrower 1009,North,"₹431,442",Salaried,Mortgage,Lucknow
+B01010,Borrower 1010,North,535600,Self-Employed,Rent,Indore
+B01011,Borrower 1011, NORTH ,21.4 LPA,Salaried,Mortgage,Kolkata
+B01012,Borrower 1012,West,576849,Salaried,Rent,Chennai
+B01013,Borrower 1013,East,922261,Salaried,Mortgage,Hyderabad
+B01014,Borrower 1014,North,611742,Salaried,Own,Jaipur
+B01015,Borrower 1015,North,406094,Salaried,Rent,Chennai
+B01016,Borrower 1016,East,"₹238,781",Business Owner,Rent,Chennai
+B01017,Borrower 1017,North,391266,Salaried,Rent,Pune
+B01018,Borrower 1018,South,1265537,Salaried,Rent,Pune
+B01019,Borrower 1019,South,1745314,Salaried,Mortgage,Mumbai
+B01020,Borrower 1020,North,380758,Contract,Mortgage,Mumbai
+B01021,Borrower 1021,West,10.5 LPA,Salaried,Own,Bengaluru
+B01022,Borrower 1022,West,904835,Salaried,Rent,Delhi
+B01023,Borrower 1023,West,"₹706,085",Salaried,Own,Lucknow
+B01024,Borrower 1024,North,879538,Salaried,Own,Pune
+B01025,Borrower 1025,South,509767,Contract,Own,Bengaluru
+B01026,Borrower 1026,South,15.2 LPA,Salaried,Family,Delhi
+B01027,Borrower 1027,West,2930056,Salaried,Rent,Indore
+B01028,Borrower 1028,East,817716,Salaried,Own,Lucknow
+B01029,Borrower 1029,East,223873,Self-Employed,Family,Delhi
+B01030,Borrower 1030,Central,"₹535,731",Salaried,Own,Kolkata
+B01031,Borrower 1031,South,3.9 LPA,Contract,Family,Lucknow
+B01032,Borrower 1032,West,455685,Self-Employed,Family,Bengaluru
+B01033,Borrower 1033,South,308964,Salaried,Own,Indore
+B01034,Borrower 1034,East,539159,Business Owner,Rent,Chennai
+B01035,Borrower 1035,East,1206545,Salaried,Mortgage,Lucknow
+B01036,Borrower 1036,West,8.1 LPA,Salaried,Rent,Jaipur
+B01037,Borrower 1037,West,,Self-Employed,Own,Lucknow
+B01038,Borrower 1038,West,1022583,Business Owner,Family,Indore
+B01039,Borrower 1039,West,645598,Salaried,Own,Lucknow
+B01040,Borrower 1040,North,1368821,Salaried,Family,Pune
+B01041,Borrower 1041,North,5.1 LPA,Business Owner,Mortgage,Hyderabad
+B01042,Borrower 1042,North,272802,Self-Employed,Own,Bengaluru
+B01043,Borrower 1043,North,1833887,Salaried,Own,Jaipur
+B01044,Borrower 1044,East,"₹1,401,100",Contract,Rent,Lucknow
+B01045,Borrower 1045,West,601452,Salaried,Mortgage,Pune
+B01046,Borrower 1046,North,3.3 LPA,Salaried,Family,Bengaluru
+B01047,Borrower 1047,South,975908,Salaried,Rent,Hyderabad
+B01048,Borrower 1048,Central,694591,Self-Employed,Family,Pune
+B01049,Borrower 1049,North,776918,Salaried,Own,Pune
+B01050,Borrower 1050,West,1173256,Business Owner,Own,Mumbai
+B01051,Borrower 1051,South,"₹452,382",Salaried,Rent,Lucknow
+B01052,Borrower 1052,West,394319,Salaried,Mortgage,Mumbai
+B01053,Borrower 1053,Central,453478,Salaried,Family,Hyderabad
+B01054,Borrower 1054,South,746849,Salaried,Mortgage,Chennai
+B01055,Borrower 1055,North,1438716,Salaried,Rent,Kolkata
+B01056,Borrower 1056,West,3.9 LPA,Self-Employed,N/A,Lucknow
+B01057,Borrower 1057,West,420500,Salaried,Rent,Lucknow
+B01058,Borrower 1058,Central,"₹1,020,960",Business Owner,Rent,Hyderabad
+B01059,Borrower 1059,West,460218,Business Owner,Rent,Lucknow
+B01060,Borrower 1060,Central,272535,Business Owner,Own,Pune
+B01061,Borrower 1061,South,5.1 LPA,Salaried,Family,Pune
+B01062,Borrower 1062,North,1662245,Salaried,Mortgage,Hyderabad
+B01063,Borrower 1063,Central,615135,Self-Employed,Mortgage,Delhi
+B01064,Borrower 1064,South,1188844,Self-Employed,Rent,Kolkata
+B01065,Borrower 1065,Central,"₹304,777",Contract,Family,Kolkata
+B01066,Borrower 1066,Central,8.9 LPA,SALARIED,Family,Jaipur
+B01067,Borrower 1067,West,493319,Salaried,Rent,Mumbai
+B01068,Borrower 1068,East,260982,Self-Employed,Own,Bengaluru
+B01069,Borrower 1069,Central,485933,Self-Employed,Rent,kolkata
+B01070,Borrower 1070,Central,931019,Business Owner,Rent,Indore
+B01071,Borrower 1071,South,9.8 LPA,Business Owner,Own,Delhi
+B01072,Borrower 1072,North,"₹607,604",Business Owner,Family,Chennai
+B01073,Borrower 1073,South,1629578,Business Owner,Rent,Indore
+B01074,Borrower 1074,South,,Business Owner,Rent,Bengaluru
+B01075,Borrower 1075,East,456786,Business Owner,Rent,Hyderabad
+B01076,Borrower 1076,Central,13.6 LPA,Salaried,Mortgage,Indore
+B01077,Borrower 1077,East,881616,Self-Employed,Mortgage,Kolkata
+B01078,Borrower 1078,Central,740939,Self-Employed,Rent,Lucknow
+B01079,Borrower 1079,Central,"₹774,826",Salaried,Family,Chennai
+B01080,Borrower 1080,Central,367465,Salaried,Family,Jaipur
+B01081,Borrower 1081,Central,6.7 LPA,Salaried,Own,Kolkata
+B01082,Borrower 1082,Central,862942,Salaried,Family,Chennai
+B01083,Borrower 1083,West,1544412,Salaried,Own,Hyderabad
+B01084,Borrower 1084,North,616827,Salaried,Family,Lucknow
+B01085,Borrower 1085,Central,1272619,Self-Employed,Rent,Delhi
+B01086,Borrower 1086,South,"₹629,701",Salaried,Rent,Lucknow
+B01087,Borrower 1087,East,734702,Business Owner,Family,Bengaluru
+B01088,Borrower 1088,South,584261,Salaried,Mortgage,Lucknow
+B01089,Borrower 1089,Central,453212,Business Owner,Mortgage,Bengaluru
+B01090,Borrower 1090,North,509939,Salaried,Rent,Pune
+B01091,Borrower 1091,East,7.3 LPA,Contract,Rent,Chennai
+B01092,Borrower 1092,North,925341,Contract,Rent,Lucknow
+B01093,Borrower 1093,West,"₹1,789,491",Salaried,Rent,Pune
+B01094,Borrower 1094,West,557662,Salaried,Rent,Hyderabad
+B01095,Borrower 1095,North,518711,Salaried,Mortgage,Bengaluru
+B01096,Borrower 1096,South,9.9 LPA,Salaried,Rent,Lucknow
+B01097,Borrower 1097,Central,977759,Salaried,Rent,Indore
+B01098,Borrower 1098,West,406108,Salaried,Rent,Lucknow
+B01099,Borrower 1099,South,291305,Salaried,Rent,Mumbai
+B01100,Borrower 1100,East,"₹530,406",Salaried,Family,Mumbai
+B01101,Borrower 1101,North,4.0 LPA,Salaried,Own,Lucknow
+B01102,Borrower 1102,Central,727516,Salaried,Mortgage,Bengaluru
+B01103,Borrower 1103,East,898367,Salaried,Rent,Delhi
+B01104,Borrower 1104,East,1331906,Business Owner,Rent,Chennai
+B01105,Borrower 1105,North,580889,Self-Employed,Own,Hyderabad
+B01106,Borrower 1106,East,4.5 LPA,Business Owner,Family,Pune
+B01107,Borrower 1107,South,"₹1,281,661",Salaried,Rent,Kolkata
+B01108,Borrower 1108,West,445875,Salaried,Own,Indore
+B01109,Borrower 1109,East,617303,Salaried,Family,Pune
+B01110,Borrower 1110,Central,1860075,Contract,Own,Pune
+B01111,Borrower 1111,Central,,Business Owner,Family,Hyderabad
+B01112,Borrower 1112, EAST ,554037,Salaried,Own,Jaipur
+B01113,Borrower 1113,North,506114,Business Owner,Family,Pune
+B01114,Borrower 1114,South,"₹867,662",Salaried,Family,Indore
+B01115,Borrower 1115,West,1160266,Salaried,Family,Hyderabad
+B01116,Borrower 1116,West,4.2 LPA,Salaried,Own,Jaipur
+B01117,Borrower 1117,South,1405356,Salaried,Own,Mumbai
+B01118,Borrower 1118,South,437145,Business Owner,Family,Mumbai
+B01119,Borrower 1119,West,741129,Salaried,Rent,Hyderabad
+B01120,Borrower 1120,Central,1690249,Business Owner,Family,Bengaluru
+B01121,Borrower 1121,North,"₹1,181,227",Salaried,Rent,Kolkata
+B01122,Borrower 1122,West,600306,Salaried,Mortgage,Hyderabad
+B01123,Borrower 1123,North,629628,Salaried,Family,Kolkata
+B01124,Borrower 1124,South,354798,Salaried,Rent,Delhi
+B01125,Borrower 1125,North,745298,Salaried,Family,Delhi
+B01126,Borrower 1126,East,13.3 LPA,Salaried,Rent,Pune
+B01127,Borrower 1127,West,749223,Self-Employed,Own,Indore
+B01128,Borrower 1128,Central,"₹843,860",Salaried,Own,Delhi
+B01129,Borrower 1129,South,791195,Salaried,Own,Indore
+B01130,Borrower 1130,South,1761009,Salaried,Own,Lucknow
+B01131,Borrower 1131,East,6.4 LPA,Salaried,Own,Delhi
+B01132,Borrower 1132,Central,520019,Self-Employed,Mortgage,Lucknow
+B01133,Borrower 1133,East,591779,Salaried,Rent,Mumbai
+B01134,Borrower 1134,East,666062,Business Owner,Own,Jaipur
+B01135,Borrower 1135,North,"₹1,673,656",Business Owner,Rent,Delhi
+B01136,Borrower 1136,West,19.0 LPA,Salaried,Mortgage,Bengaluru
+B01137,Borrower 1137,West,1413339,BUSINESS OWNER,Rent,Mumbai
+B01138,Borrower 1138,East,575408,Business Owner,Mortgage,Indore
+B01139,Borrower 1139,Central,936902,Business Owner,Own,Delhi
+B01140,Borrower 1140,East,442560,Salaried,Rent,Hyderabad
+B01141,Borrower 1141,West,6.0 LPA,Contract,Rent,Indore
+B01142,Borrower 1142,North,"₹2,735,404",Salaried,Family,Bengaluru
+B01143,Borrower 1143,North,577787,Salaried,Family,Pune
+B01144,Borrower 1144,Central,1388040,Salaried,Own,Chennai
+B01145,Borrower 1145,Central,405337,Salaried,Rent,Bengaluru
+B01146,Borrower 1146,Central,3.8 LPA,Salaried,Rent,Lucknow
+B01147,Borrower 1147,East,688081,Business Owner,Mortgage,Jaipur
+B01148,Borrower 1148,South,,Business Owner,Own,Mumbai
+B01149,Borrower 1149,East,"₹628,024",Salaried,Own,Indore
+B01150,Borrower 1150,East,814154,Salaried,Rent,Pune
+B01151,Borrower 1151,East,6.5 LPA,Salaried,Own,Kolkata
+B01152,Borrower 1152,North,917937,Salaried,Rent,Pune
+B01153,Borrower 1153,West,1337669,Salaried,Family,Bengaluru
+B01154,Borrower 1154,West,875365,Salaried,Own,Hyderabad
+B01155,Borrower 1155,South,451376,Salaried,Rent,Delhi
+B01156,Borrower 1156,South,"₹952,889",Salaried,Rent,Indore
+B01157,Borrower 1157,North,1326055,Business Owner,Rent,Chennai
+B01158,Borrower 1158,East,989173,Self-Employed,Family,kolkata
+B01159,Borrower 1159,West,617583,Self-Employed,Mortgage,Jaipur
+B01160,Borrower 1160,West,526028,Salaried,Rent,Lucknow
+B01161,Borrower 1161,West,11.1 LPA,Contract,Own,Chennai
+B01162,Borrower 1162,West,2711393,Contract,Family,Bengaluru
+B01163,Borrower 1163,North,"₹669,909",Salaried,Rent,Delhi
+B01164,Borrower 1164,North,434117,Self-Employed,Family,Indore
+B01165,Borrower 1165,Central,908485,Self-Employed,Mortgage,Pune
+B01166,Borrower 1166,Central,3.7 LPA,Business Owner,Rent,Indore
+B01167,Borrower 1167,East,838590,Self-Employed,Own,Pune
+B01168,Borrower 1168,North,346527,Business Owner,Rent,Kolkata
+B01169,Borrower 1169,Central,602501,Salaried,Mortgage,Pune
+B01170,Borrower 1170,South,"₹450,692",Salaried,Rent,Chennai
+B01171,Borrower 1171,West,4.2 LPA,Salaried,Own,Lucknow
+B01172,Borrower 1172,North,1543936,Contract,Rent,Pune
+B01173,Borrower 1173,East,816435,Salaried,Family,Lucknow
+B01174,Borrower 1174,South,1215459,Salaried,Own,Lucknow
+B01175,Borrower 1175,East,802547,Self-Employed,Family,Bengaluru
+B01176,Borrower 1176,East,7.3 LPA,Contract,Rent,Lucknow
+B01177,Borrower 1177,Central,"₹548,735",Self-Employed,Own,Lucknow
+B01178,Borrower 1178,West,276809,Salaried,Own,Lucknow
+B01179,Borrower 1179,South,871994,Business Owner,Family,Bengaluru
+B01180,Borrower 1180,East,399864,Salaried,Mortgage,Hyderabad
+B01181,Borrower 1181,South,6.3 LPA,Salaried,Mortgage,Delhi
+B01182,Borrower 1182,North,725084,Salaried,Mortgage,Indore
+B01183,Borrower 1183,West,454035,Salaried,Mortgage,Hyderabad
+B01184,Borrower 1184,West,"₹1,160,276",Business Owner,Rent,Indore
+B01185,Borrower 1185,East,,Self-Employed,Mortgage,Kolkata
+B01186,Borrower 1186,North,4.8 LPA,Self-Employed,Family,Lucknow
+B01187,Borrower 1187,East,695042,Business Owner,Own,Kolkata
+B01188,Borrower 1188,North,295119,Self-Employed,Own,Jaipur
+B01189,Borrower 1189,North,738127,Business Owner,Own,Hyderabad
+B01190,Borrower 1190,North,405622,Salaried,Rent,Lucknow
+B01191,Borrower 1191,South,"₹1,639,089",Salaried,Own,Kolkata
+B01192,Borrower 1192,West,1232637,Contract,Own,Pune
+B01193,Borrower 1193,North,1640176,Self-Employed,Family,Jaipur
+B01194,Borrower 1194,West,546408,Contract,Own,Indore
+B01195,Borrower 1195,South,657330,Salaried,Own,Bengaluru
+B01196,Borrower 1196,South,4.5 LPA,Contract,Rent,Pune
+B01197,Borrower 1197,North,622613,Salaried,Mortgage,Indore
+B01198,Borrower 1198,North,"₹442,418",Business Owner,Rent,Bengaluru
+B01199,Borrower 1199,South,703906,Salaried,Rent,Hyderabad
+B01200,Borrower 1200,Central,592939,Salaried,Family,Mumbai
+B01179,Borrower 1179,South,871994,Business Owner,Family,Bengaluru
+B00866,Borrower 866,South,4.9 LPA,Salaried,Rent,Delhi
+B00102,Borrower 102,South,1394274,Salaried,Family,Pune
+B00440,Borrower 440,South,882395,Business Owner,Own,Hyderabad
+B00059,Borrower 59,South,272730,Salaried,Family,Delhi
+B01121,Borrower 1121,North,"₹1,181,227",Salaried,Rent,Kolkata
+B00324,Borrower 324,South,976639,Salaried,Mortgage,Chennai
+B00975,Borrower 975,Central,1394458,Salaried,Own,Kolkata
+B00412,Borrower 412,East,2372250,Business Owner,Rent,Mumbai
+B00856,Borrower 856,North,16.6 LPA,Salaried,Rent,Lucknow
+B00821,Borrower 821,West,6.8 LPA,Self-Employed,Own,Jaipur
+B00045,Borrower 45,South,2500351,Salaried,Mortgage,Pune
+B00050,Borrower 50, SOUTH ,"₹669,466",Salaried,Rent,Indore
+B00850,Borrower 850,West,190175,Salaried,Rent,Pune
+B00241,Borrower 241,Central,11.4 LPA,Salaried,Family,Mumbai
+B00171,Borrower 171,North,7.5 LPA,Self-Employed,Family,Lucknow
+B00524,Borrower 524,South,429381,Salaried,Rent,Pune
+B00766,Borrower 766,South,3.4 LPA,Self-Employed,Own,Delhi
+B00839,Borrower 839,South,402006,Salaried,Rent,Delhi
+B00424,Borrower 424,North,590322,Business Owner,Mortgage,Lucknow
+B00381,Borrower 381,North,8.7 LPA,Salaried,Family,Delhi
+B00610,Borrower 610,North,"₹722,305",Business Owner,Mortgage,Delhi
+B00677,Borrower 677,East,856287,Salaried,N/A,Lucknow
+B00345,Borrower 345,Central,588408,Salaried,Family,Hyderabad
